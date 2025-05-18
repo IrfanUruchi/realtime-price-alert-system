@@ -18,5 +18,18 @@ This repository contains the design and implementation of a system that monitors
 
 ---
 
+## Architecture Docs
+
+All design artifacts live in the `architecture/` folder:
+
+- **overview.md** – System purpose, context, and high-level summary  
+- **components.md** – Detailed breakdown of modules, services, and interfaces  
+- **diagrams/** –  PNG exports of flow, and data-flow diagrams
+
+---
+
+## Licence 
+
+This project is licensed under the MIT License. 
 
 
