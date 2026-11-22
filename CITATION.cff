@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the associated report."
+type: software
+title: "Real-Time Price Alert System"
+
+authors:
+  - family-names: Uruchi
+    given-names: Irfan
+    orcid: "https://orcid.org/0009-0000-9036-8172"
+
+repository-code: "https://github.com/IrfanUruchi/realtime-price-alert-system"
+
+preferred-citation:
+  type: report
+  title: "Real-Time Price-Drop Alert Platform"
+  authors:
+    - family-names: Uruchi
+      given-names: Irfan
+      orcid: "https://orcid.org/0009-0000-9036-8172"
+  year: 2026
+  publisher:
+    name: Zenodo
+  doi: "10.5281/zenodo.24433809"
+  url: "https://doi.org/10.5281/zenodo.24433809"
