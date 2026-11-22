@@ -74,6 +74,10 @@ The revised manuscript preserves the original architectural
 figures and clarifies references, architectural assumptions,
 and performance objectives.
 
+- [Original manuscript — May 2025](Real_Time_price_drop_alert_platform.pdf)
+- [Revised manuscript — November 2026](Real_Time_Price_Drop_Alert_Platform_Final.pdf)
+- [Official Zenodo publication](https://doi.org/10.5281/zenodo.24433809)
+  
 ---
 
 ## Citation
